@@ -1,0 +1,1 @@
+1. Enquanto o h1 serve pra titulos e subtitulos, a tag <p> define texto normal 
